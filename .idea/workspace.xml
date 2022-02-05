@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17/POM_hakkinda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/smokeTest/NegativeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/smokeTest/PositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HMCWebTablePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/E2ETesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,9 +58,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="TestNG.NegativeTest">
+  <component name="RunManager" selected="TestNG.C02_WebTables">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,16 +73,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_MehmetBeyden (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_E2ETesting" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day17.*" />
+          <option name="PATTERN" value="tests.day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day17" />
-      <option name="MAIN_CLASS_NAME" value="tests.day17.C02_MehmetBeyden" />
+      <option name="PACKAGE_NAME" value="tests.day18" />
+      <option name="MAIN_CLASS_NAME" value="tests.day18.C01_E2ETesting" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -92,16 +107,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_YanlisKeyKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_WebTables" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day17.*" />
+          <option name="PATTERN" value="tests.day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day17" />
-      <option name="MAIN_CLASS_NAME" value="tests.day17.C03_YanlisKeyKullanimi" />
+      <option name="PACKAGE_NAME" value="tests.day18" />
+      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_WebTables" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -145,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_WebTables" />
+        <item itemvalue="TestNG.C01_E2ETesting" />
         <item itemvalue="TestNG.NegativeTest" />
         <item itemvalue="TestNG.PositiveLoginTest" />
         <item itemvalue="TestNG.C02_PropertiesIlkClass (1)" />
-        <item itemvalue="TestNG.C02_MehmetBeyden (1)" />
-        <item itemvalue="TestNG.C03_YanlisKeyKullanimi" />
       </list>
     </recent_temporary>
   </component>
