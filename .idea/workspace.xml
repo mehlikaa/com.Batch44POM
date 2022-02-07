@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C01_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C04_SatirSayisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C05_ExcelMapeYukleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C06_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Resources/ulkeler.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/ulkeler.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20/C02_ReadExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day20/C02_ReadExcel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02_ReadExcel">
+  <component name="RunManager" selected="TestNG.C06_WriteExcel">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,40 +76,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C01_ReadExcel" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_WebTableDynamicLocators" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebTableDynamicLocators" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,16 +97,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_VariablesDemoQa" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_ReusableRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
+          <option name="PATTERN" value="tests.day20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_VariablesDemoQa" />
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C03_ReusableRunner" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -145,16 +114,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebtableDemoqa" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_SatirSayisi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
+          <option name="PATTERN" value="tests.day20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_WebtableDemoqa" />
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C04_SatirSayisi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_ExcelMapeYukleme" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C05_ExcelMapeYukleme" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_WriteExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C06_WriteExcel" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -164,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C06_WriteExcel" />
+        <item itemvalue="TestNG.C05_ExcelMapeYukleme" />
+        <item itemvalue="TestNG.C04_SatirSayisi" />
+        <item itemvalue="TestNG.C03_ReusableRunner" />
         <item itemvalue="TestNG.C02_ReadExcel" />
-        <item itemvalue="TestNG.C01_ReadExcel" />
-        <item itemvalue="TestNG.C01_WebTableDynamicLocators" />
-        <item itemvalue="TestNG.C02_WebtableDemoqa" />
-        <item itemvalue="TestNG.C02_VariablesDemoQa" />
       </list>
     </recent_temporary>
   </component>
