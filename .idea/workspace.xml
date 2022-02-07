@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DemoqaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16/T01DriverIlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C01_WebTableDynamicLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C02_WebtableDemoqa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C02_ReadExcel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HMCWebTablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HMCWebTablePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18/C02_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day18/C02_Webtables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HMCWebTablePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HMCWebTablePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C01_E2ETesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C01_E2ETesting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day18/C02_WebTables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -64,9 +58,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Resources" />
   </component>
-  <component name="RunManager" selected="TestNG.C01_WebTableDynamicLocators">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C02_ReadExcel">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +73,23 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C01_ReadExcel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,6 +104,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests.day19" />
       <option name="MAIN_CLASS_NAME" value="tests.day19.C01_WebTableDynamicLocators" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day20" />
+      <option name="MAIN_CLASS_NAME" value="tests.day20.C02_ReadExcel" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -112,24 +145,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_VariablesDemoQa.demoqaTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19.C02_VariablesDemoQa" />
-      <option name="METHOD_NAME" value="demoqaTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C02_WebtableDemoqa" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
@@ -147,30 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Webtables" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day18" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18.C02_Webtables" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_ReadExcel" />
+        <item itemvalue="TestNG.C01_ReadExcel" />
         <item itemvalue="TestNG.C01_WebTableDynamicLocators" />
         <item itemvalue="TestNG.C02_WebtableDemoqa" />
         <item itemvalue="TestNG.C02_VariablesDemoQa" />
-        <item itemvalue="TestNG.C02_VariablesDemoQa.demoqaTest" />
-        <item itemvalue="TestNG.C02_Webtables" />
       </list>
     </recent_temporary>
   </component>
