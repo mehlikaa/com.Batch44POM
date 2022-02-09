@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C04_SatirSayisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C05_ExcelMapeYukleme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C06_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirlenenClasslariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliGruplariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliMetodCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliPackagelariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21/C01_WindowHandleReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Resources/ulkeler.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/ulkeler.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20/C02_ReadExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day20/C02_ReadExcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16/C02_PageIlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16/C02_PageIlkClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16/C03_FacebookLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16/C03_FacebookLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16/C04_HotelMyCampPositiveLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16/C04_HotelMyCampPositiveLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day19/C02_WebtableDemoqa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day19/C02_WebtableDemoqa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C03_ReusableRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/C05_ExcelMapeYukleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/C05_ExcelMapeYukleme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day20/ReusableMethodExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16/C02_PageIlkClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16/C02_PageIlkClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16/C03_FacebookLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16/C03_FacebookLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16/C04_HotelMyCampPositiveLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day16/C04_HotelMyCampPositiveLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day19/C01_WebTableDynamicLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day19/C01_WebTableDynamicLocators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day19/C02_WebtableDemoqa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day19/C02_WebtableDemoqa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20/C03_ReusableRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day20/C03_ReusableRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20/C05_ExcelMapeYukleme.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day20/C05_ExcelMapeYukleme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20/ReusableMethod.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +76,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="facebookPage" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/test/java/Resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.C06_WriteExcel">
+  <component name="RunManager" selected="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliGruplariCalistirma.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,50 +103,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_ReadExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_WindowHandleReusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day20.*" />
+          <option name="PATTERN" value="tests.day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C02_ReadExcel" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ReusableRunner" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C03_ReusableRunner" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_SatirSayisi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C04_SatirSayisi" />
+      <option name="PACKAGE_NAME" value="tests.day21" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21.C01_WindowHandleReusableMethods" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -148,17 +137,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_WriteExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirlenenClasslariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day20" />
-      <option name="MAIN_CLASS_NAME" value="tests.day20.C06_WriteExcel" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenClasslariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliGruplariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliGruplariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliMetodCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliMetodCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C06_WriteExcel" />
+        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliGruplariCalistirma.xml" />
+        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirlenenClasslariCalistirma.xml" />
         <item itemvalue="TestNG.C05_ExcelMapeYukleme" />
-        <item itemvalue="TestNG.C04_SatirSayisi" />
-        <item itemvalue="TestNG.C03_ReusableRunner" />
-        <item itemvalue="TestNG.C02_ReadExcel" />
+        <item itemvalue="TestNG.C01_WindowHandleReusableMethods" />
+        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliMetodCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>

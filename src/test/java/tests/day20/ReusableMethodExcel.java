@@ -5,14 +5,11 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.nio.file.Watchable;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class ReusableMethod {
+public class ReusableMethodExcel {
 
         // bir metod olusturalim, dosya yolu, sayfa ismi  ve satir, hucre indexini verince
         // icindeki bilgiyi dondursun.
@@ -61,10 +58,7 @@ public class ReusableMethod {
             excelMap.put(key,value);
         }
 
-
         return excelMap;
-
-
 
     }
 }

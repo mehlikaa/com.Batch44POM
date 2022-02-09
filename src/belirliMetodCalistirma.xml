@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="packageCalistirma">
+
+    <test name="otel">
+        <classes>
+            <class name="tests.day18.C02_Webtables">
+                <methods>
+
+                    <include name="loginT"></include>
+                    <include name="table"></include>
+
+                    <!-- include secilirse, geriye kalanlar, exclude gibi gibi olur.
+                         exclude secilirse digerleri include kabul edilir.
+                         birlikte yazilmamalidir.
+                    -->
+
+                    <!--  <exclude name="tests.day17.C02_PropertiesIlkClass.positiveLoginTest"></exclude>   -->
+                     <!-- sadece ustteki haric digerlerini calistirir.-->
+                </methods>
+            </class>
+
+            <class name="tests.day19.C01_WebTableDynamicLocators">
+                <methods>
+                    <include name="tests.day19.C01_WebTableDynamicLocators">
+
+                    </include>
+                </methods>
+
+            </class>
+
+        </classes>
+    </test>
+</suite>
+
+<!-- eger bir test icerisinde birden fazla hiyerarsi olusturmamiz lazim gerekirse
+    uygun kirilma noktasi belirleyip oradan hiyerarsiyi yeniden olusturabiliriz.
+-->

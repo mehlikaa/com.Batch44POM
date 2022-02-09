@@ -1,13 +1,8 @@
 package tests.day20;
 
-import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.Map;
 
 public class C05_ExcelMapeYukleme {
@@ -20,7 +15,7 @@ public class C05_ExcelMapeYukleme {
         String path="src/test/java/Resources/ulkeler.xlsx";
         String sayfaAdi="Sayfa1";
 
-        Map<String, String> ulkelerMap=ReusableMethod.createMap(path,sayfaAdi);
+        Map<String, String> ulkelerMap= ReusableMethodExcel.createMap(path,sayfaAdi);
         // System.out.println("Map imiz : "+ReusableMethod.createMap(path,sayfaAdi));
 
         System.out.println(ulkelerMap.get("Turkey"));
