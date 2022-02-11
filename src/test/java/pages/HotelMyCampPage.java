@@ -11,6 +11,7 @@ import utilities.Driver;
         public WebElement tryAgain;
 
         public HotelMyCampPage(){
+
             PageFactory.initElements(Driver.getDriver(),this);
         }
 

@@ -26,6 +26,7 @@ public class C01_WindowHandleReusableMethods {
         String actualTitle=Driver.getDriver().getTitle();
         System.out.println("actualTitle"+ actualTitle);
         Assert.assertEquals(actualTitle,expectedTitle);
+        Driver.closeDriver();
     }
 
     @Test
