@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/null/test-output/Rapor20220214072934.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaCrossBrowser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaCrossBrowserParalel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaParalel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaSirali.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cokluCrossMehmetBeyden.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practicePackage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hotelProje/HotelProje1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HotelProjePage04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C01_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C02_BasicAuthetications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C03_Windowhandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C04_DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day27/C01_DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day27/C02_DataProviderNegativeLoginTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CrossDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/hotelProje/HotelProje1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/P01_DemoGuruPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/P01_DemoGuruPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practice/P01_DemoGuruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P01_DemoGuruTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/practice/P01_DemoGuruTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/practice/P01_DemoGuruTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-    </list>
+    <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
