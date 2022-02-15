@@ -9,17 +9,21 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import java.time.Duration;
 
-public class Driver {
+public class CrossDriver {
 
-    private  Driver(){
+
+    private  CrossDriver(){
 
     }
 
-    public static WebDriver  driver;
+    public static WebDriver driver;
 
-    public static WebDriver getDriver(){
+    public static WebDriver getDriver(String browser){
 
+        // parametre olarak yazilan browser sayesinde, coklu testler calistirilirken arada
+        // CrossDriver'a yeni browser atamasi yapabilmemize imkan tanimasi icindir.
 
+        browser = browser == null ? ConfigReader.getProperty("browser") : browser;
 
         if(driver==null){   // bu if sayesinde kod calisirken bir kere new keyword ile driver olusturulaca
             // diger kullanimlarda new devreye girmeyecek

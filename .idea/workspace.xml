@@ -5,27 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb79a66-8dbc-4c8b-971b-d09cfdba2576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/P01_DemoGuruPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/P02_WebTablePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/P03_TutorialPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21/XML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22/C01_TestNGReports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22/C02_FacebookTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P01_DemoGuruTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P02_WebTableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P03_TutorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/null/test-output/Rapor20220214072934.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaCrossBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaCrossBrowserParalel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaParalel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cokluCalistirmaSirali.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cokluCrossMehmetBeyden.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicePackage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hotelProje/HotelProje1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HotelProjePage04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C01_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C02_BasicAuthetications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C03_Windowhandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/crossBrowserTests/C04_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day27/C01_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day27/C02_DataProviderNegativeLoginTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CrossDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/hotelProje/HotelProje1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day21/C01_WindowHandleReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day21/C01_WindowHandleReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HotelMyCampPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day21/C01_WindowHandleReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day21/C01_WindowHandleReusableMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/P01_DemoGuruPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/P01_DemoGuruPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practice/P01_DemoGuruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P01_DemoGuruTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/practice/P01_DemoGuruTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/practice/P01_DemoGuruTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +56,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day19/C01_WebTableDynamicLocators.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/hotelProje/HotelProje1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/tests/day18/C01_E2ETesting.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day19/C01_WebTableDynamicLocators.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,11 +71,15 @@
     </option>
   </component>
   <component name="ProjectId" id="24ZTizQU3gQ8SpDE026Hp7eOKI5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -89,7 +98,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.P03_TutorialTest">
+  <component name="RunManager" selected="TestNG.C02_DataProviderNegativeLoginTesti">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,16 +110,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01_DemoGuruTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
+          <option name="PATTERN" value="tests.day27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.P01_DemoGuruTest" />
+      <option name="PACKAGE_NAME" value="tests.day27" />
+      <option name="MAIN_CLASS_NAME" value="tests.day27.C01_DataProvider" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -118,16 +127,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02_WebTableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_DataProviderNegativeLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
+          <option name="PATTERN" value="tests.day27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.P02_WebTableTest" />
+      <option name="PACKAGE_NAME" value="tests.day27" />
+      <option name="MAIN_CLASS_NAME" value="tests.day27.C02_DataProviderNegativeLoginTesti" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -135,26 +144,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P03_TutorialTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/cokluCalistirmaCrossBrowserParalel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.P03_TutorialTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirlenenClasslariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Batch44POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirlenenClasslariCalistirma.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/cokluCalistirmaCrossBrowserParalel.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -162,9 +154,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliGruplariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/cokluCalistirmaCrossBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Batch44POM" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliGruplariCalistirma.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/cokluCalistirmaCrossBrowser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/cokluCalistirmaSirali.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch44POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/cokluCalistirmaSirali.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -174,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.P03_TutorialTest" />
-        <item itemvalue="TestNG.P02_WebTableTest" />
-        <item itemvalue="TestNG.P01_DemoGuruTest" />
-        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirliGruplariCalistirma.xml" />
-        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/belirlenenClasslariCalistirma.xml" />
+        <item itemvalue="TestNG.C02_DataProviderNegativeLoginTesti" />
+        <item itemvalue="TestNG.C01_DataProvider" />
+        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/cokluCalistirmaCrossBrowserParalel.xml" />
+        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/cokluCalistirmaCrossBrowser.xml" />
+        <item itemvalue="TestNG./Users/mehlika/Desktop/SeleniumTestNG/com.Batch44POM/src/cokluCalistirmaSirali.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +194,9 @@
       <updated>1643837242445</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
